@@ -19,7 +19,7 @@ This section contains code samples from my past projects. Each project folder in
 
 - [Project 1](/project-1)
 - [Project 2](/project-2)
-- [Project 3](/project-3)
+- [DataOps-Python](https://github.com/macx78/DataOps-Python)
 - ...
 
 ## Problem-Solving Diagrams
